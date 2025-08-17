@@ -11,5 +11,4 @@ Verifica `NSAppTransportSecurity` em **qualquer** .ipa, listando exceções por 
 ```bash
 python3 atscheck.py app.ipa
 python3 atscheck.py app.ipa --json
-python3 atscheck.py app.ipa --domain hondabr.prod.acquia-sites.com
 python3 atscheck.py app.ipa --no-color
